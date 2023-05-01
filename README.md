@@ -59,9 +59,9 @@ This opens up the possibility to do a lot of interesting tasks like photo-enhanc
 7. https://pytorch.org/tutorials/advanced/neural_style_tutorial.html8. 
 8. https://keras.io/examples/generative/neural_style_transfer
 
+The Neural Style Transfer code has been run on Google Colab and can be found [here](https://colab.research.google.com/drive/1onTmze3i0jthd22I_nkpUSzGVkNHxMQu?usp=sharing).
 
-
-
+The Cycle GAN code has been run on Kaggle and can be found [here](https://www.kaggle.com/code/ishikade/cyclegan-pytorch-implementation).
 
 
 
